@@ -2,7 +2,6 @@ DEPLOY_DIR=public
 
 build:
 	Rscript -e "blogdown::build_site()"
-	touch $(DEPLOY_DIR)/.nojekyll
 
 deploy: build
 	cd $(DEPLOY_DIR)
