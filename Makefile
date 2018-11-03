@@ -4,8 +4,7 @@ build:
 	Rscript -e "blogdown::build_site()"
 
 deploy: build
-	cd $(DEPLOY_DIR)
-	touch .nojekyll
+	cd $(DEPLOY_DIR) & touch .nojekyll
 	git add .
 	git commit -am "Deployed"
 	git push
