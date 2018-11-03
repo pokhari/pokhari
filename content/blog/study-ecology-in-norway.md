@@ -18,6 +18,7 @@ slug = "study-ecology-in-norway"
 [#### Documentation of Financing](https://www.nmbu.no/en/studies/admission/apply/financing)
 [#### Application Portal](https://fsweb.no/soknadsweb/login.jsf?inst=nmbu)
 
+
 ### Norwegian University of Science and Technology
 [**Industrial Ecology**](https://www.ntnu.edu/studies/msindecol)
 
