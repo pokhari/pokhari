@@ -14,6 +14,10 @@ slug = "study-ecology-in-norway"
 
 [**Master of Science in Agroecology**](https://www.nmbu.no/en/studies/study-options/master/master_of_science_in_agroecology)
 
+[#### How to apply](https://www.nmbu.no/en/studies/admission/apply)
+[#### Documentation of Financing](https://www.nmbu.no/en/studies/admission/apply/financing)
+[#### Application Portal](https://fsweb.no/soknadsweb/login.jsf?inst=nmbu)
+
 ### Norwegian University of Science and Technology
 [**Industrial Ecology**](https://www.ntnu.edu/studies/msindecol)
 
