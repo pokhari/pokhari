@@ -5,6 +5,7 @@ build:
 
 deploy: build
 	cd $(DEPLOY_DIR)
+	touch .nojekyll
 	git add .
 	git commit -am "Deployed"
 	git push
