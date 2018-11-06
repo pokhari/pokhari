@@ -1,5 +1,5 @@
 title                  = "Pokhari.com"
-baseurl                = "http://pokhari.github.io"
+baseurl                = "https://pokhari.github.io"
 relativeurls           = true
 builddrafts            = false
 canonifyurls           = true
